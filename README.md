@@ -8,6 +8,8 @@
   - Cosplaying </br>
   - Parkouring </br>
   - Gaming </br>
+  - Sewing </br>
+  - Cooking
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
