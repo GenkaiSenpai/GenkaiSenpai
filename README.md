@@ -1,5 +1,5 @@
 <h1 align="center">Haro, GenkaiSenpai</h1>
-<h3 align="center">This is just a github profile for all my studies and such. In my main I mostly do back end development</h3>
+<h3 align="center">This is just a github profile for all my studies and such. In my main I mostly do back end development and makes public repository for others to use so I could help them.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genkaisenpai&label=Profile%20views&color=0e75b6&style=flat" alt="genkaisenpai" /> </p>
 
