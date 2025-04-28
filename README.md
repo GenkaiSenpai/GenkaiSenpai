@@ -5,9 +5,9 @@
 
 <h3 align="left">More Things I do other than coding:</h3>
 <p align="left">
-  - Cosplaying \n
-  - Parkouring \n
-  - Gaming \n
+  - Cosplaying </br>
+  - Parkouring </br>
+  - Gaming </br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
