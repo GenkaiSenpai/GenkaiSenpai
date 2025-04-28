@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genkaisenpai&label=Profile%20views&color=0e75b6&style=flat" alt="genkaisenpai" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">More Things I do other than coding:</h3>
 <p align="left">
+  - Cosplaying
+  - Parkouring
+  - Gaming
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
